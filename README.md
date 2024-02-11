@@ -1,10 +1,15 @@
 ## **Upskill_CPP Repository**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> 223cc76 (Initial commit)
+=======
+
+
+>>>>>>> 763cb46 (Initial commit)
 ## **Introduction**
 -----------
 **Upskill_CPP** is designed to facilitate a deeper understanding of C++ through practical programming exercises. Targeted at learners from all backgrounds, this repository simplifies C++ syntax and concepts via straightforward programs, making it an excellent resource for anyone looking to enhance their C++ knowledge, from beginners to advanced programmers.
